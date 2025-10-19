@@ -2,6 +2,10 @@
   position: absolute;
   inset: 0;
   display: flex;
+  width: 711px;
+  height: 386px;
+  left: 70px;
+  top: 100px;
   justify-content: center;
   align-items: center;
   background-color: #545050;
