@@ -2,7 +2,6 @@
   position: absolute;
   inset: 0;
   display: flex;
-  pointer-events: none;
   justify-content: center;
   align-items: center;
   background-color: #545050;
