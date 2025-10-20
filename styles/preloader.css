@@ -1,14 +1,15 @@
 .preloader {
   position: absolute;
   inset: 0;
-  width: 711px;
-  height: 386px;
-  left: 70px;
-  top: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
   background: #545050;
+  pointer-events: none;
+  z-index: 3;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
 }
 
 .preloader-chasing-squares {
