@@ -298,7 +298,7 @@ img {
   background-color: #545050;
 }
 
-.content__card-link {
+.content__card-link:active .content__video-card  {
   background-color: #545050;
 }
 
